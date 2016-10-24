@@ -1,5 +1,7 @@
 # This is a Python example 
 var = 1
-print (var)
+var1 = 2
+var2 = 3
+print (var+var1+var2)
 
 print ("Fuck up")
