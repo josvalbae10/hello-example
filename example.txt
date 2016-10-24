@@ -1,0 +1,5 @@
+# This is a Python example 
+var = 1
+print (var)
+
+print ("Fuck up")
